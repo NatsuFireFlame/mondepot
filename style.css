@@ -12,6 +12,12 @@ div
     padding:10px;
     text-align:center;
 }
+<<<<<<< HEAD
 label{
     color: blue;
+=======
+.text_profil{
+    color: crimson;
+    font-size: large;
+>>>>>>> profil
 }
